@@ -13,14 +13,15 @@
 
 ---
 #### Hardware
- |                                              |
- |:------------------:|:-----------------------:|
- | **CPU**            | Intel i3 12100F         |
- | **Mother board**   | Maxsun H610itx          |
- | **GPU**            | AMD RX 6600             |
- | **Memory**         | Glory '天策' 3200MHz 8G*2 |
- | **SSD**            | Samsung SSD 970 EVO     |
- | **WiFi/Bluetooth** | Intel AX201             |
+
+|          *          |    *                     |
+|:------------------:|:-----------------------:|
+| **CPU**            | Intel i3 12100F         |
+| **Mother board**   | Maxsun H610itx          |
+| **GPU**            | AMD RX 6600             |
+| **Memory**         | Glory '天策' 3200MHz 8G*2 |
+| **SSD**            | Samsung SSD 970 EVO     |
+| **WiFi/Bluetooth** | Intel AX201             |
 
 ---
 
